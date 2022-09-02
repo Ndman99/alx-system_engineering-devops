@@ -1,1 +1,1 @@
-a script that sets the permission to the file hello to others only
+a script that sets the mode of the file hello to -rwxr-x-wx
