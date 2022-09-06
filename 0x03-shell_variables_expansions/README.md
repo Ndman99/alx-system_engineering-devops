@@ -1,1 +1,1 @@
-a script that creates an alias
+A script that add /action to the PATH. /action
